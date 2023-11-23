@@ -1,7 +1,7 @@
 site_name: INTERLINK
 site_url: https://victoria-manousaki.github.io/interlink.github.io/
 site_dir: interlink.github.io
-docs_dir: interlink.github.io
+docs_dir: src
 
 nav:
   - Home: index.md
