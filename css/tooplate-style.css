@@ -210,6 +210,13 @@ a {
   height: 200px;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .float-right {
   float: right;
 }
